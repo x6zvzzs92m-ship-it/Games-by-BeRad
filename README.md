@@ -9,8 +9,6 @@
             padding: 0;
             box-sizing: border-box;
         }
-
-```
     body {
         font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
         background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%);
@@ -658,7 +656,6 @@
         initGame();
     });
 </script>
-```
 
 </body>
 </html>
