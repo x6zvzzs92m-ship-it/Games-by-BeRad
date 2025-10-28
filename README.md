@@ -1,1 +1,1 @@
-kids game ti learn ABCs
+kids game to learn ABCs
